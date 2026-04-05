@@ -82,9 +82,5 @@ I focus on building robust **backend systems** and **cloud-native applications**
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,30&height=80&text=%22Ship%20it.%20Learn.%20Iterate.%20Repeat.%22&fontSize=22&fontColor=a5b4fc&animation=fadeIn&desc=—%20%400xrayn&descSize=13&descColor=6b7280&descAlignY=78&fontAlignY=45" width="70%"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer" width="100%"/>
 </div>
