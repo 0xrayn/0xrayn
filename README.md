@@ -10,21 +10,17 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300px"/>
-
 ## 👨‍💻 About Me
 
 Hey! I'm **Ryan**, a Full Stack Developer from **Malang, Indonesia** 🇮🇩
 
-I love building things that live at the intersection of **cloud infrastructure**, **AI**, and the **decentralized web**. Whether it's architecting a scalable Laravel API, wiring up React frontends, or optimizing gas fees on-chain — I'm all in.
+I focus on building robust **backend systems** and **cloud-native applications** — from designing scalable Laravel APIs to deploying containerized services on GCP and AWS. I care deeply about clean architecture, performance, and developer experience.
 
-- 🌱 Currently deepening my skills in **Google Cloud & AWS**
-- 🔗 Fascinated by **Web3**, blockchain systems & on-chain data
-- 🤖 Building **AI-integrated** products and automation tools
-- 🎹 When not coding, you'll find me with Moonlight Sonata
+- ☁️ Currently deepening expertise in **Google Cloud & AWS** infrastructure
+- 🤖 Building **AI-integrated** web applications and automation tools
+- 🎨 I love crafting interfaces with a **Web3 aesthetic** — dark, sharp, and immersive
+- 🎹 When not coding, you'll find me listening to Moonlight Sonata
 - ⚡ I believe great software is **fast, minimal, and purposeful**
-
-<br clear="right"/>
 
 ---
 
@@ -85,40 +81,8 @@ I love building things that live at the intersection of **cloud infrastructure**
 
 ---
 
-## 🌐 Web3 & Blockchain
-
 <div align="center">
-
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=363636&labelColor=818cf8)
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=3C3C3D&labelColor=818cf8)
-![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=web3dotjs&logoColor=F16822&labelColor=818cf8)
-![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=for-the-badge&logo=ipfs&logoColor=65C2CB&labelColor=818cf8)
-
-</div>
-
----
-
-## 📈 Contribution
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xrayn&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=f472b6&currStreakNum=ffffff&sideNums=818CF8&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=6b7280" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xrayn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════╗
-║   "Ship it. Learn. Iterate. Repeat."     ║
-║                          — @0xrayn       ║
-╚══════════════════════════════════════════╝
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,30&height=80&text=%22Ship%20it.%20Learn.%20Iterate.%20Repeat.%22&fontSize=22&fontColor=a5b4fc&animation=fadeIn&desc=—%20%400xrayn&descSize=13&descColor=6b7280&descAlignY=78&fontAlignY=45" width="70%"/>
 </div>
 
 <div align="center">
