@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=a5b4fc" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=ffc9c9" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=818CF8&center=true&vCenter=true&width=500&lines=Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Building+AI-powered+web+apps+%F0%9F%A4%96;Exploring+Web3+%26+on-chain+systems+%F0%9F%94%97;Laravel+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Go;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=EF4444&center=true&vCenter=true&width=500&lines=Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Building+AI-powered+web+apps+%F0%9F%A4%96;Exploring+Web3+%26+on-chain+systems+%F0%9F%94%97;Laravel+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Go;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,15 +12,15 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Ryan**, a Full Stack Developer from **Malang, Indonesia** 🇮🇩
+Hey! I'm **Ryan**, a Full Stack Developer from **Pasuruan, Indonesia** 🇮🇩
 
-I focus on building robust **backend systems** and **cloud-native applications** — from designing scalable Laravel APIs to deploying containerized services on GCP and AWS. I care deeply about clean architecture, performance, and developer experience.
+I focus on building robust backend systems and cloud-native applications, from designing scalable APIs across multiple stacks to deploying containerized services on GCP and AWS. I care deeply about clean architecture, performance, and developer experience.
 
-- ☁️ Currently deepening expertise in **Google Cloud & AWS** infrastructure
-- 🤖 Building **AI-integrated** web applications and automation tools
-- 🎨 I love crafting interfaces with a **Web3 aesthetic** — dark, sharp, and immersive
-- 🎹 When not coding, you'll find me listening to Moonlight Sonata
-- ⚡ I believe great software is **fast, minimal, and purposeful**
+- ☁️ Currently deepening expertise in **Google Cloud & AWS** infrastructure  
+- 🤖 Building **AI-integrated** web applications and automation tools  
+- 🎨 I love crafting interfaces with a **Web3 aesthetic** dark, sharp, and immersive  
+- 🎹 When not coding, you'll find me listening to Moonlight Sonata  
+- ⚡ I believe great software is **fast, minimal, and purposeful**  
 
 ---
 
@@ -82,5 +82,5 @@ I focus on building robust **backend systems** and **cloud-native applications**
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=100&section=footer" width="100%"/>
 </div>
