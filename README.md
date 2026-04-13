@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20(Backend-Focused)%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=fbcfe8&color=gradient&colorStart=ff0000&colorEnd=7c3aed" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20(Backend-Focused)%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=c4b5fd&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=2" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Building+AI-powered+systems+%F0%9F%A4%96;Exploring+Web3+%26+on-chain+systems+%F0%9F%94%97;Backend-heavy+Fullstack+Engineer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Building+AI-powered+systems+%F0%9F%A4%96;Exploring+Web3+%26+on-chain+systems+%F0%9F%94%97;Backend-heavy+Fullstack+Engineer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,7 +31,7 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 <table>
 <tr>
-<td align="center" width="200"><b>🎨 Frontend</b></td>
+<td align="left" width="200"><b>🎨 Frontend</b></td>
 <td>
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
@@ -42,8 +42,9 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 </td>
 </tr>
+
 <tr>
-<td align="center"><b>⚙️ Backend</b></td>
+<td align="left"><b>⚙️ Backend</b></td>
 <td>
 
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
@@ -55,8 +56,9 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 </td>
 </tr>
+
 <tr>
-<td align="center"><b>☁️ Cloud & DevOps</b></td>
+<td align="left"><b>☁️ Cloud & DevOps</b></td>
 <td>
 
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
@@ -66,8 +68,9 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 </td>
 </tr>
+
 <tr>
-<td align="center"><b>🔗 Web3</b></td>
+<td align="left"><b>🔗 Web3</b></td>
 <td>
 
 ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=white)
@@ -78,8 +81,9 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 </td>
 </tr>
+
 <tr>
-<td align="center"><b>🗄️ Database</b></td>
+<td align="left"><b>🗄️ Database</b></td>
 <td>
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -88,6 +92,7 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 </td>
 </tr>
+
 </table>
 
 </div>
@@ -96,6 +101,6 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 <div align="center">
   <a href="https://rayn.web.id" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=rayn.web.id&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75&color=gradient&colorStart=ff0000&colorEnd=7c3aed"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=rayn.web.id&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=80&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=2"/>
   </a>
 </div>
