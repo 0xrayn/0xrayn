@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20(Backend-Focused)%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=e9d5ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20(Backend-Focused)%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=fbcfe8&color=gradient&colorStart=ff0000&colorEnd=7c3aed" width="100%"/>
 </div>
 
 <div align="center">
@@ -18,6 +18,7 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 - ☁️ Currently deepening expertise in **Google Cloud & AWS** infrastructure  
 - 🤖 Building **AI-integrated** applications and automation systems  
+- 🔗 Exploring **Web3 development (EVM, smart contracts, Sepolia testnet)**  
 - 🎨 Interested in **Web3-style interfaces** futuristic, minimal, and immersive  
 - 🎹 When not coding, you'll find me listening to Moonlight Sonata  
 - ⚡ I believe great software is **fast, minimal, and purposeful**  
@@ -66,6 +67,18 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 </td>
 </tr>
 <tr>
+<td align="center"><b>🔗 Web3</b></td>
+<td>
+
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=3C3C3D)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-0d1117?style=flat-square&logo=ethereum&logoColor=purple)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=flat-square&logo=ethereum&logoColor=yellow)
+![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=flat-square&logo=web3dotjs&logoColor=F16822)
+
+</td>
+</tr>
+<tr>
 <td align="center"><b>🗄️ Database</b></td>
 <td>
 
@@ -83,6 +96,6 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 <div align="center">
   <a href="https://rayn.web.id" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=rayn.web.id&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=rayn.web.id&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75&color=gradient&colorStart=ff0000&colorEnd=7c3aed"/>
   </a>
 </div>
