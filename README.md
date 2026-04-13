@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20(Backend-Focused)%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=c4b5fd&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=2" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ryan%20Dwi%20Wicaksono&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20(Backend-Focused)%20%2F%20Cloud%20%2F%20Web3&descSize=18&descAlignY=60&descColor=c4b5fd&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=3"
+    width="100%"
+    style="display:block;"
+  />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Building+AI-powered+systems+%F0%9F%A4%96;Exploring+Web3+%26+on-chain+systems+%F0%9F%94%97;Backend-heavy+Fullstack+Engineer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Building+AI-powered+systems+%F0%9F%A4%96;Exploring+Web3+%26+on-chain+systems+%F0%9F%94%97;Backend-heavy+Fullstack+Engineer;Always+learning%2C+always+shipping+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </div>
 
 <br/>
@@ -101,6 +108,10 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 
 <div align="center">
   <a href="https://rayn.web.id" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=rayn.web.id&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=80&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=2"/>
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=rayn.web.id&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=80&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=3"
+      width="100%"
+      style="display:block;"
+    />
   </a>
 </div>
