@@ -109,7 +109,7 @@ I'm a Full Stack Developer with a strong focus on backend engineering. I special
 <div align="center">
   <a href="https://rayn.web.id" target="_blank">
     <img 
-      src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=rayn.web.id&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=80&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=3"
+      src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=rayn.web.id&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=80&color=gradient&colorStart=ff0000&colorEnd=6d28d9&v=3"
       width="100%"
       style="display:block;"
     />
