@@ -28,5 +28,5 @@ Git · GitHub · n8n
 ---
 
 <div align="center">
-  <img src="https://github.com/0xrayn/0xrayn/blob/output/github-contribution-grid-snake2.svg" alt="snake animation" />
+  <img src="https://github.com/0xrayn/0xrayn/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
