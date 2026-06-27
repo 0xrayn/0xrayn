@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=520&lines=Code+is+not+just+logic%2C+it%27s+craft.;Ship+fast%2C+build+right%2C+scale+always.;Infrastructure+is+the+foundation+of+everything." alt="Typing SVG" />
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 Hey, I'm Ryan, a backend, cloud, and DevOps engineer from Probolinggo, Indonesia.
@@ -13,8 +11,6 @@ Hey, I'm Ryan, a backend, cloud, and DevOps engineer from Probolinggo, Indonesia
 I spend most of my time designing and building RESTful APIs across Go, Laravel, and Node.js, architecting cloud infrastructure on GCP and AWS, and setting up CI/CD pipelines with Docker and Terraform. I care about systems that are reliable under load, easy to maintain, and straightforward to deploy.
 
 Outside of backend work, I occasionally touch frontend with React and Next.js when the project needs it. I enjoy the full picture from writing the API to shipping it to production with proper observability and automation in place.
-
----
 
 ## 🛠️ Tech Stack
 
