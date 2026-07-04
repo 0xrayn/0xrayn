@@ -73,3 +73,5 @@ Outside of backend work, I occasionally touch frontend with React and Next.js wh
     <img src="https://img.shields.io/badge/rayn.web.id-0d1117?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Portfolio" />
   </a>
 </div>
+
+![Banner](./assets/bannerbottom.png)
