@@ -74,4 +74,4 @@ Outside of backend work, I occasionally touch frontend with React and Next.js wh
   </a>
 </div>
 
-![Banner](./assets/bannerbottom.png)
+![Banner](./assets/bannerbottoms.png)
